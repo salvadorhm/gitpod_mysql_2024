@@ -5,8 +5,8 @@ Gitpod y MySQL
 
 ### Simbologia
 
-**$** - Indica que se ejecuta desde consola, terminal o un shell
-**mysql>** - Indica que se ejecuta desde MySQL Shell
+- **$** - Indica que se ejecuta desde consola, terminal o un shell
+- **mysql>** - Indica que se ejecuta desde MySQL Shell
 
 1.1 Entrar al mysql shell
 
